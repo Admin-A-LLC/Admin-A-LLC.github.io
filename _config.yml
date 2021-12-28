@@ -1,1 +1,7 @@
 theme: jekyll-theme-modernist
+
+plugins:
+  - jekyll-feed
+title: Network.Domains Alert feed
+description: Network.Domains github link and key words rss feed
+author: Admin A LLC
